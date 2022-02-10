@@ -1,0 +1,22 @@
+.table {
+    font-weight: 300;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th {
+   text-align: left; 
+}
+
+.table tbody tr:last-child {
+    padding-bottom: 0;
+}
+
+.table th,
+.table td {
+    padding: .6em;
+}
+
+.table tbody tr:hover {
+    color: var(--primary-green);
+}

@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  },
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "name": "zeroh",
+  "version": "1.0.0",
+  "description": "A budgeting app build with React",
+  "main": "index.js",
+  "author": "Imanuel Febie <tuffgniuz.dev@gmail.com>",
+  "license": "MIT"
+}

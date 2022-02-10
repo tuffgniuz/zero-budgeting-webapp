@@ -1,0 +1,10 @@
+.card {
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.card_content {
+    padding: .8em;
+}

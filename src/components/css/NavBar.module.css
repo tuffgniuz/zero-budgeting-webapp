@@ -1,0 +1,13 @@
+.navbar {
+    padding: .2em 0;
+    height: 80px;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 768px;
+    max-height: 90%;
+}
+
